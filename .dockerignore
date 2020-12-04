@@ -1,0 +1,9 @@
+.git
+.gitignore
+.gitmodules
+docker/
+docker-compose.yml
+Dockerfile
+README.md
+shm/
+tmp/
